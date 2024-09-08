@@ -11,7 +11,7 @@ This is the official implementation of our paper titled "Towards Dynamic Fine-Re
 
 ## :open_file_folder: Datasets
  - SODA-D: [OneDrvie](https://nwpueducn-my.sharepoint.com/:f:/g/personal/gcheng_nwpu_edu_cn/EhXUvvPZLRRLnmo0QRmd4YUBvDLGMixS11_Sr6trwJtTrQ?e=PellK6)
- - Visdrone2019: [website](https://github.com/VisDrone/VisDrone-Datase)
+ - Visdrone2019: [website](https://github.com/VisDrone/VisDrone-Dataset)
 
 <!-- 
 Moreover, this repository is build on MMDetection, please refer to [mmdetection](https://github.com/open-mmlab/mmdetection) for the preparation of corresponding environment.
