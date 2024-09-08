@@ -193,7 +193,7 @@ data = dict(
             dict(type='DefaultFormatBundle'),
             dict(type='Collect', keys=['img', 'gt_bboxes', 'gt_labels'])
         ],
-        ori_ann_file='/home/cpl/dataset/SODA-D/Annotations/train.json'),
+        ori_ann_file='train.json'),
     val=dict(
         type='SODADDataset',
         ann_file='val.json',
